@@ -2,8 +2,11 @@ PITCHME.mdの記述方法
 ---
 「---」は、スライドのページ区切りです
 ---
-「![](画像へのパス)」で画像を貼れます。
+「```![](画像へのパス)```」で画像を貼れます。
 ---
-![](assets/img/presentation.png)
+![](presentation.png)
 ---
-3枚目のスライド
+詳しくはこちら↓
+[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+---
+最後のスライド
